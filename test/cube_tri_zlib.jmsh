@@ -1,0 +1,23 @@
+{
+	"MeshVertex3":{
+		"_ArrayType_":"double",
+		"_ArraySize_":[8,3],
+		"_ArrayZipSize_":[1,24],
+		"_ArrayZipType_":"zlib",
+		"_ArrayZipData_":"eJxjYMAHPtjjlcaQh/GJ1YdLPy51mDQAp2EONQ=="
+	},
+	"MeshTri3":{
+		"_ArrayType_":"uint8",
+		"_ArraySize_":[12,3],
+		"_ArrayZipSize_":[1,36],
+		"_ArrayZipType_":"zlib",
+		"_ArrayZipData_":"eJwFwYcNAAAIArAAMv6/2JY4MNAJNQKXNy7aqXPm9QEJtwCj"
+	},
+	"MeshTet4":{
+		"_ArrayType_":"uint8",
+		"_ArraySize_":[6,4],
+		"_ArrayZipSize_":[1,24],
+		"_ArrayZipType_":"zlib",
+		"_ArrayZipData_":"eJwFwYcNAAAMwyA5Xf7/4gKxqZasjEt5zPkEywBt"
+	}
+}
