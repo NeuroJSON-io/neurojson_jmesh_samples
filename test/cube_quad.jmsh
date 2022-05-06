@@ -1,8 +1,8 @@
 {
 	"_DataInfo_":{
 		"JMeshVersion":"0.5",
-		"Comment":"Created by BlenderPhotonics (http:\/\/mcx.space\/bp)",
-		"AnnotationFormat":"http:\/\/neurojson.org\/jmesh\/draft1"
+		"Comment":"Created by BlenderPhotonics (http://mcx.space/bp)",
+		"AnnotationFormat":"http://neurojson.org/jmesh/draft1"
 	},
 	"MeshVertex3":[
 		[-1,-1,-1],

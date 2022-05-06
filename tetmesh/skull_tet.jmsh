@@ -3,23 +3,23 @@
 		"JMeshVersion":0.5,
 		"Dimension":3,
 		"CreationTime":"02-Apr-2022 15:07:20",
-		"Comment":"Created by Iso2Mesh 1.9.5-Rev(http:\/\/iso2mesh.sf.net), mesh created based on CGAL 3.4 sample data file skull_2.9.inr",
-		"AnnotationFormat":"https:\/\/github.com\/NeuroJSON\/jmesh\/blob\/master\/JMesh_specification.md",
-		"SerialFormat":"http:\/\/json.org",
+		"Comment":"Created by Iso2Mesh 1.9.5-Rev(http://iso2mesh.sf.net), mesh created based on CGAL 3.4 sample data file skull_2.9.inr",
+		"AnnotationFormat":"https://github.com/NeuroJSON/jmesh/blob/master/JMesh_specification.md",
+		"SerialFormat":"http://json.org",
 		"Parser":{
 			"Python":[
-				"https:\/\/pypi.org\/project\/jdata",
-				"https:\/\/pypi.org\/project\/bjdata"
+				"https://pypi.org/project/jdata",
+				"https://pypi.org/project/bjdata"
 			],
-			"MATLAB":"https:\/\/github.com\/NeuroJSON\/jsonlab",
+			"MATLAB":"https://github.com/NeuroJSON/jsonlab",
 			"JavaScript":[
-				"https:\/\/github.com\/NeuroJSON\/jsdata",
-				"https:\/\/github.com\/NeuroJSON\/js-bjdata"
+				"https://github.com/NeuroJSON/jsdata",
+				"https://github.com/NeuroJSON/js-bjdata"
 			],
-			"CPP":"https:\/\/github.com\/NeuroJSON\/json",
+			"CPP":"https://github.com/NeuroJSON/json",
 			"C":[
-				"https:\/\/github.com\/DaveGamble\/cJSON",
-				"https:\/\/github.com\/NeuroJSON\/ubj"
+				"https://github.com/DaveGamble/cJSON",
+				"https://github.com/NeuroJSON/ubj"
 			]
 		}
 	},
