@@ -1,0 +1,33 @@
+{
+        "README_":{
+                "JMeshVersion":"0.5",
+                "Dimension":3,
+		"Comment":"Created by the NeuroJSON Project (https://neurojson.org)",
+                "AnnotationFormat":"https://neurojson.org/jmesh",
+                "SerialFormat":"http://json.org",
+                "Parser":{
+                        "Python":[
+                                "https://pypi.org/project/jdata",
+                                "https://pypi.org/project/bjdata"
+                        ],
+                        "MATLAB":"https://github.com/NeuroJSON/jsonlab",
+                        "JavaScript":[
+                                "https://github.com/NeuroJSON/jsdata",
+                                "https://github.com/NeuroJSON/js-bjdata"
+                        ],
+                        "CPP":"https://github.com/nlohmann/json",
+                        "C":[
+                                "https://github.com/DaveGamble/cJSON",
+                                "https://github.com/NeuroJSON/ubj"
+                        ]
+                },
+                "Descriptions":"Created using Iso2Mesh 1.9.6 (http://iso2mesh.sf.net)",
+		"License":"Public Domain",
+		"Reference":{
+                        "Iso2Mesh": "Qianqian Fang and David Boas, \"Tetrahedral mesh generation from volumetric binary and gray-scale images,\" Proceedings of IEEE International Symposium on Biomedical Imaging 2009, pp. 1142-1145, 2009",
+                        "JMesh": "Yuxuan Zhang and Qianqian Fang, \"BlenderPhotonics: an integrated open-source software environment for three-dimensional meshing and photon simulations in complex tissues\", J. of Biomedical Optics, 27(8), 083014 (2022) doi: https://doi.org/10.1117/1.JBO.27.8.083014"
+                },
+		"SourceURL":"https://github.com/NeuroJSON/JMeshSamples",
+		"Creator":"Qianqian Fang, q.fang at neu.edu"
+        }
+}
